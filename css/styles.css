@@ -1,8 +1,27 @@
+* { margin: 0; padding: 0; border: 0; font-size: 100%; }
+
+
+.my-class {text-align: center; 
+ }
+
+p {font-weight: bold; 
+   margin-left:50px;
+   margin-right:50px;
+  }
+
+   .box {border-style: solid; padding: 0px; background-color: aqua;}
+
+* {font-family: 'Train One', cursive}
+
+ h1 {background-image: url(../images/background.jpg);}
 
 h1 {
-font-family: 'Train One', cursive;
+font-size: 60px;
 }
 
 h2 {
-font-family: 'Train One', cursive;
+font-size: 30px;
 }
+
+
+
